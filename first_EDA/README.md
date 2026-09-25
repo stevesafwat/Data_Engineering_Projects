@@ -1,4 +1,4 @@
-# 📊 Data Engineer Job Market — EDA Projectssss
+# 📊 Data Engineer Job Market — EDA Projects
 
 My **first Exploratory Data Analysis (EDA) project**!
 
@@ -143,7 +143,7 @@ I wanted to know:
 
 > **Which skills appear the most in Data Engineer job postings?**
 
-📄 [View SQL File →](topDemanind_skills.sql)
+📄 [View SQL File →](C:\Random Files\SQL_Data_Engineering_Projects_27Hours\first_EDA\topDemanding_skills.sql)
 
 ---
 
@@ -153,7 +153,7 @@ I wanted to know:
 
 > **Which skills are associated with the highest median salaries?**
 
-📄 [View SQL File →](topPaying_skills.sql)
+📄 [View SQL File →](C:\Random Files\SQL_Data_Engineering_Projects_27Hours\first_EDA\topPaying_skills.sql)
 
 ---
 
@@ -165,7 +165,7 @@ I wanted to combine:
 
 to create my own `optimal_score`.
 
-📄 [View SQL File →](optimalScore_skills_salary.sql)
+📄 [View SQL File →](C:\Random Files\SQL_Data_Engineering_Projects_27Hours\first_EDA\optimalScore_skills_salary)
 
 ---
 
