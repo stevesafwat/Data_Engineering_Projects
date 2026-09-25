@@ -1,4 +1,4 @@
-# 📊 Data Engineer Job Market — EDA Projectssss
+# 📊 Data Engineer Job Market — EDA Projects
 
 My **first Exploratory Data Analysis (EDA) project**!
 
